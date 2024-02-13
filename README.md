@@ -34,4 +34,4 @@ This project is licensed under the [MIT License](LICENSE).
 
 ## Images
 
-The images were downloaded from the restuarant's Facebook, not officially provided my the owner.
+The images were downloaded from the restaurant's Facebook, not officially provided by the owner.
